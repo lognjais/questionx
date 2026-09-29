@@ -50,7 +50,7 @@ OUT_DIR = REPO / "scripts" / "jee" / "out" / "release"
 OUT_ZIP = OUT_DIR / "data.zip"
 CACHE = OUT_DIR / "base"
 
-REPO_SLUG = "jvoltci/questionx"
+REPO_SLUG = "lognjais/questionx"
 BANKS = ("neet.json.enc", "jee.json.enc")
 IMAGE_SUFFIXES = {".jpg", ".jpeg", ".png", ".webp", ".gif"}
 
