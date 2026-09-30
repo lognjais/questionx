@@ -3,7 +3,7 @@
   const P = window.QXPipeline;
   const C = window.QXCrypto;
   const PAGE_SIZE = 20;
-  const GITHUB_OWNER = 'jvoltci';
+  const GITHUB_OWNER = 'lognjais';
   const GITHUB_REPO = 'questionx';
   const FLAG_KEY = 'qx_flags_v1';
   const BOOKMARK_KEY = 'qx_bookmark_v1';

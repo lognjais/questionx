@@ -57,7 +57,7 @@ class SyncService {
   final ValueNotifier<SyncProgress> progress =
       ValueNotifier(const SyncProgress(0, "Initializing..."));
 
-  static const String _repoOwner = "jvoltci";
+  static const String _repoOwner = "lognjais";
   static const String _repoName = "questionx";
   static const String _versionKey = "db_version_tag";
   /// Fingerprint of the bundled banks that were last imported into the DB.
